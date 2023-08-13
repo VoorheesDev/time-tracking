@@ -1,7 +1,8 @@
 ## Overview
 <p align="justify">
 The main goal of the project is obtaining time-tracking information using clockify API.
-For now the script is able to retrieve all time entries for a user on each workspace.
+The script is able to retrieve all time entries for a user on each workspace.
+It also displays the total time grouped by date.
 
 To use this project you need to register on [clockify.me](https://clockify.me/) and generate an API key.
 </p>
